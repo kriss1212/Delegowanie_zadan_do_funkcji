@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\bin\Debug\net6.0\Dwa zbliżone.exe
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\bin\Debug\net6.0\Dwa zbliżone.deps.json
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\bin\Debug\net6.0\Dwa zbliżone.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\bin\Debug\net6.0\Dwa zbliżone.dll
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\bin\Debug\net6.0\Dwa zbliżone.pdb
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.dll
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\refint\Dwa zbliżone.dll
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.pdb
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\Dwa zbliżone.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Dwa zbliżone\Dwa zbliżone\obj\Debug\net6.0\ref\Dwa zbliżone.dll

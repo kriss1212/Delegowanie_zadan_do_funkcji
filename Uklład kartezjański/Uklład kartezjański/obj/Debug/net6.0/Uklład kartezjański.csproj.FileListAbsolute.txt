@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\bin\Debug\net6.0\Uklład kartezjański.exe
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\bin\Debug\net6.0\Uklład kartezjański.deps.json
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\bin\Debug\net6.0\Uklład kartezjański.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\bin\Debug\net6.0\Uklład kartezjański.dll
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\bin\Debug\net6.0\Uklład kartezjański.pdb
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.dll
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\refint\Uklład kartezjański.dll
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.pdb
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\Uklład kartezjański.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\Delegowanie zadań do funkcji\Uklład kartezjański\Uklład kartezjański\obj\Debug\net6.0\ref\Uklład kartezjański.dll
